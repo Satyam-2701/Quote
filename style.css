@@ -94,3 +94,10 @@ box-shadow: 0 10px 20px 0px rgba(0,0,0,0.15);
 background: transparent;
 color: #333;
 }
+
+@media (max-width:650px){
+  .quote-box{
+    width: 90%;
+    margin: 0 auto;
+  }
+}
